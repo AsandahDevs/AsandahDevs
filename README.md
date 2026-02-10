@@ -3,13 +3,13 @@
 
 ## About me
 
- I'm Asanda Majola.A junior front-end web developer from Durban, South Africa.
+ I'm Asanda Majola.A front-end web developer from Durban, South Africa.
  
-- ☞ ☞ I'm a dude who is passionate about web development especially all things related to UI/UX which sort of makes me biased towards front-end web development.
+- ☞ ☞ I'm a dude who is passionate about web/mobile development using tools such as react,react native or Angular ro deliver high quality and scalable single page and cros-plqtform apps 
 
-- The sources of my inspiration stem from the fact that front-end web development requires a developer to abstract away any complexities that hide behind user interfaces in order to offer a rewarding user experience to an end-user.
+- The sources of my inspiration stem from the fact that front-end development requires a developer to abstract away any complexities that hide behind user interfaces in order to offer a rewarding user experience to an end-user.
 
-- JavaScript is my go-to language for web development.
+- TypeScript is my go-to language for web/mobile app development.
 
 - Angular<img width=15 alt="Angular logo" src="https://user-images.githubusercontent.com/89397749/235459990-86171797-1549-43a4-b9b4-ce3e60480358.png">  is my preferred JavaScript framework for creating interactive user interfaces for complex business web applications, due to preconfigured libraries and tools that support 
 reactive programming, built-in route mechanism, and client-server communications amongst other features.
