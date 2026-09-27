@@ -1,49 +1,32 @@
+# Hi, I’m Asanda Majola 👋
 
-# Hi there 👋
+Front-end developer and product-minded builder based in Durban, South Africa. I design and build thoughtful web and mobile experiences that turn complex workflows into useful products.
 
-## About me
+[**View my portfolio →**](https://portfolio.phakade.net/)
 
- I'm Asanda Majola.A front-end web developer from Durban, South Africa.
- 
-- ☞ ☞ I'm a dude who is passionate about web/mobile development using tools such as react,react native or Angular ro deliver high quality and scalable single page and cros-plqtform apps 
+## What I work with
 
-- The sources of my inspiration stem from the fact that front-end development requires a developer to abstract away any complexities that hide behind user interfaces in order to offer a rewarding user experience to an end-user.
+- **Front end:** TypeScript, React, Angular, JavaScript, HTML, and CSS
+- **Mobile:** React Native, Expo, and Ionic Framework
+- **Product work:** responsive interfaces, design systems, API integration, and cross-platform applications
 
-- TypeScript is my go-to language for web/mobile app development.
+## Selected work
 
-- Angular<img width=15 alt="Angular logo" src="https://user-images.githubusercontent.com/89397749/235459990-86171797-1549-43a4-b9b4-ce3e60480358.png">  is my preferred JavaScript framework for creating interactive user interfaces for complex business web applications, due to preconfigured libraries and tools that support 
-reactive programming, built-in route mechanism, and client-server communications amongst other features.
+| Project | Description | Link |
+| --- | --- | --- |
+| **Stock0** | Location-aware grocery-deals mobile product for South African retailers. | [Visit site →](https://stock-0.com/) |
+| **Simptool** | Social-media moderation platform for connected accounts, rules, and automated comment classification. | [Visit site →](https://simptool.com/) |
+| **Men Cave** | E-commerce experience focused on product discovery for a distinct lifestyle customer. | [Visit site →](https://mencave.stock-0.com/home) |
+| **Amabele** | React e-commerce storefront for beverage discovery and transactions. | [Visit site →](https://asandahdevs.github.io/Amabele/) |
+| **Starbucks Clone** | React single-page recreation of the South African Starbucks experience. | [Visit site →](https://asandahdevs.github.io/starbucks-clone/) |
 
-## My tech stack
+## Experience
 
-* HTML <img width=20 alt="html logo" src="https://user-images.githubusercontent.com/89397749/185697155-1cccbff7-e619-420d-babb-ab3e56416743.svg">
+I’m a Front-end Developer and Ionic App Developer at Barrows, where I build enterprise and field-facing applications that support retail and operational workflows.
 
-* CSS <img width=20 alt="css logo" src="https://user-images.githubusercontent.com/89397749/185697319-816f0c5f-fcdb-411a-8be4-627640e97f7a.svg">
+## Let’s connect
 
-* Bootstrap (CSS framework) <img width=20 alt="bootstrap logo" src="https://user-images.githubusercontent.com/89397749/186191188-6453c852-d50a-4c8a-af0a-ae295057c65b.svg">
-
-* JavaScript <img width=20 alt="JavaScript logo" src="https://user-images.githubusercontent.com/89397749/185697218-f1a8c0cf-a9b3-4ab8-9488-ccb51e49468a.svg">
-
-* React.js  <img width=20 alt="React logo" src="https://user-images.githubusercontent.com/89397749/174078402-8b0cc0bf-87e9-485a-a988-c2c97b7450fb.png">
-
-* Angular <img width=20 alt="Angular logo" src="https://user-images.githubusercontent.com/89397749/235459990-86171797-1549-43a4-b9b4-ce3e60480358.png">
-
-
-## My developer tools ⚒️
-
-- Git version control <img width=30 alt="Git logo" src="https://user-images.githubusercontent.com/89397749/185702457-f93431e0-8a68-4f73-8d18-b4f14ada635b.svg">
-
-- Visual studio code <img width=20 alt="Visual studio code logo" src="https://user-images.githubusercontent.com/89397749/185702727-b607ac76-72c7-467f-9b1e-e969a17904d6.svg">
-
-## Github stats 🤓
-
-[![Asanda Majola's GitHub stats](https://github-readme-stats.vercel.app/api?username=asandahdevs&show_icons=true&theme=radical)](https://github.com/asandahdevs/github-readme-stats)
-
-## Contact me <img src="https://user-images.githubusercontent.com/89397749/189481941-d6aab299-0bab-4f5d-b9ae-22377dc0206c.png" width="20" height="auto" alt="Gmail logo"/>
-
-For client-side development work, you can reach me at noelmajola@gmail.com 
-
-<!--
-**AsandaTheCurious/AsandaTheCurious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+- [Portfolio](https://portfolio.phakade.net/)
+- [LinkedIn](https://www.linkedin.com/in/asanda-majola-738067186)
+- [GitHub](https://github.com/AsandahDevs)
+- [Email](mailto:noelmajola@gmail.com)
