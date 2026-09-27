@@ -1,32 +1,51 @@
-# Hi, I’m Asanda Majola 👋
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│ asanda@portfolio:~$ whoami                                           │
+│ Asanda Majola — Front-end Developer / Ionic App Developer            │
+│ Durban, South Africa                                                  │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-Front-end developer and product-minded builder based in Durban, South Africa. I design and build thoughtful web and mobile experiences that turn complex workflows into useful products.
+> I build thoughtful web and mobile products that turn complex workflows into useful digital experiences.
 
-[**View my portfolio →**](https://portfolio.phakade.net/)
+```bash
+$ open --portfolio
+https://portfolio.phakade.net/
+```
 
-## What I work with
+## `$ stack --current`
 
-- **Front end:** TypeScript, React, Angular, JavaScript, HTML, and CSS
-- **Mobile:** React Native, Expo, and Ionic Framework
-- **Product work:** responsive interfaces, design systems, API integration, and cross-platform applications
+```text
+front-end  → TypeScript · React · Angular · JavaScript · HTML · CSS
+mobile     → React Native · Expo · Ionic Framework
+product    → Responsive UI · Design systems · API integration · Cross-platform apps
+```
 
-## Selected work
+## `$ projects --featured`
 
-| Project | Description | Link |
+| Project | Description | Launch |
 | --- | --- | --- |
-| **Stock0** | Location-aware grocery-deals mobile product for South African retailers. | [Visit site →](https://stock-0.com/) |
-| **Simptool** | Social-media moderation platform for connected accounts, rules, and automated comment classification. | [Visit site →](https://simptool.com/) |
-| **Men Cave** | E-commerce experience focused on product discovery for a distinct lifestyle customer. | [Visit site →](https://mencave.stock-0.com/home) |
-| **Amabele** | React e-commerce storefront for beverage discovery and transactions. | [Visit site →](https://asandahdevs.github.io/Amabele/) |
-| **Starbucks Clone** | React single-page recreation of the South African Starbucks experience. | [Visit site →](https://asandahdevs.github.io/starbucks-clone/) |
+| `stock0` | Location-aware grocery deals for South African retailers. | [open ↗](https://stock-0.com/) |
+| `simptool` | Social-media moderation for connected accounts and automated comment classification. | [open ↗](https://simptool.com/) |
+| `men-cave` | E-commerce product discovery for a distinct lifestyle customer. | [open ↗](https://mencave.stock-0.com/home) |
+| `amabele` | React e-commerce storefront for beverage discovery and transactions. | [open ↗](https://asandahdevs.github.io/Amabele/) |
+| `starbucks-clone` | React single-page recreation of the South African Starbucks experience. | [open ↗](https://asandahdevs.github.io/starbucks-clone/) |
 
-## Experience
+## `$ experience --current`
 
-I’m a Front-end Developer and Ionic App Developer at Barrows, where I build enterprise and field-facing applications that support retail and operational workflows.
+```text
+Barrows / Front-end Developer + Ionic App Developer
+└─ Building enterprise and field-facing applications for retail
+   and operational workflows.
+```
 
-## Let’s connect
+## `$ contact --open`
 
-- [Portfolio](https://portfolio.phakade.net/)
-- [LinkedIn](https://www.linkedin.com/in/asanda-majola-738067186)
-- [GitHub](https://github.com/AsandahDevs)
-- [Email](mailto:noelmajola@gmail.com)
+- Portfolio → [portfolio.phakade.net](https://portfolio.phakade.net/)
+- LinkedIn → [asanda-majola-738067186](https://www.linkedin.com/in/asanda-majola-738067186)
+- GitHub → [@AsandahDevs](https://github.com/AsandahDevs)
+- Email → [noelmajola@gmail.com](mailto:noelmajola@gmail.com)
+
+```text
+asanda@portfolio:~$ _
+```
